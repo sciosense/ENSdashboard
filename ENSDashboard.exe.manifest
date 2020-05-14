@@ -4,7 +4,7 @@
   <description asmv2:iconFile="sciosense_logo_icon.ico" asmv2:publisher="ams AG" co.v1:suiteName="ENS Dashboard" asmv2:product="Internal Dashboard for Windows" asmv2:supportUrl="http://www.ams.com/" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
-    <assemblyIdentity name="ENSDashboard" version="2020.4.14.953" language="neutral" processorArchitecture="x86" />
+    <assemblyIdentity name="ENSDashboard" version="2020.5.12.954" language="neutral" processorArchitecture="x86" />
     <commandLine file="ENSDashboard.exe" parameters="" />
   </entryPoint>
   <co.v1:useManifestForTrust xmlns="urn:schemas-microsoft-com:asm.v1" />
@@ -45,13 +45,13 @@
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ENSDashboard.exe" size="13492760">
-      <assemblyIdentity name="ENSDashboard" version="2020.4.14.953" language="neutral" processorArchitecture="x86" />
+      <assemblyIdentity name="ENSDashboard" version="2020.5.12.954" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>B2EeGXpSHPCzB+1GARAK5ov/tsrn5qP+fLkhfjLMhM0=</dsig:DigestValue>
+        <dsig:DigestValue>d+hmH1Fbh2epD6tVztTQOhbXu+mmZSFJAIvXmqaxE+U=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -105,13 +105,13 @@
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="libENSDashboard.dll" size="461312">
-      <assemblyIdentity name="libENSDashboard" version="2020.4.14.953" language="neutral" processorArchitecture="x86" />
+      <assemblyIdentity name="libENSDashboard" version="2020.5.12.954" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>qdRhQxtxzFj2tXFgBL85PyqU8CaP+emNdXO7bxf9tSg=</dsig:DigestValue>
+        <dsig:DigestValue>EAFRcqLROMA4J8c7Y+fBl/sfiK6/GYI9PJkVK8sPpIc=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -123,7 +123,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>9S+sQKX6NdVSM06mQ4Awv7o/B8BazSnxNDhpY4yHV7A=</dsig:DigestValue>
+        <dsig:DigestValue>zYscI6Awed3jMzzQfe8XUjbWHtzAil0qk6MZ5DxdG/g=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
