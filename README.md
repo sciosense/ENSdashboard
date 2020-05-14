@@ -8,4 +8,6 @@ The ENSDashboard is a Windows application that supports monitoring and logging o
 Additional documentation for the ENSdashboard can be found here:
 https://www.sciosense.com/products/relative-humidity-and-temperature-sensors/windows-ens-dashboard/
 
+## Revision 20200512954
+
 ### ScioSense is a Joint Venture of ams AG
